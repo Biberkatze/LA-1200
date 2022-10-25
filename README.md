@@ -19,8 +19,12 @@ Wir entwickeln ein Vokabeltrainer welcher Vokabeln abfragen kann.
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1    |                 |      | Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️ |
-| ...  |                 |      |                                    |
+| 1    |        Muss         |   Funktional   | Ich will, dass der Nutzer eine Antwort eingeben kann, damit er spielen kann |
+| ...  |        Muss         |   Funktional   | Ich will, dass die Antwort verglichen wird mit der richtigen Lösung, damit geprüft wird ob meine Antwort korrekt ist    |
+| ...  |        Muss         |   Funktional   | Ich will, dass der Nutzer zwischen 2 Modi wechseln kann    |
+| ...  |        Muss         |   Funktional   | Ich will, dass falsche    |
+| ...  |        Muss         |   Funktional   | Ich will, dass die Wörter in einer zufälligen Reihenfolge abgefragt werden, damit der Nutzer abwechslung hat.    |
+| ...  |        Muss         |   Funktional   | Ich will, dass die Antwort verglichen wird mit der richtigen Lösung, damit geprüft wird ob meine Antwort korrekt ist    |
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
 
