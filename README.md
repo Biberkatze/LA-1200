@@ -1,4 +1,4 @@
-# Vocitrainer
+# LA 1200
 # Projekt-Dokumentation
 
 Gruppe RAM: Tuma, Meister, Spycher, Meyer und Sacher
