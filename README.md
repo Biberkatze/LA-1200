@@ -1,4 +1,4 @@
-# vocitrainer
+# Vocitrainer
 # Projekt-Dokumentation
 
 Gruppe RAM: Tuma, Meister, Spycher, Meyer und Sacher
