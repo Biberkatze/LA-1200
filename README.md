@@ -52,8 +52,8 @@ Wir entwickeln ein Vokabeltrainer welcher Vokabeln abfragen kann.
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |       |           |              |               |
-| ...  |       |           |              |               |
+| 1.A |       |           |              |               |
+| 2.B |       |           |              |               |
 
 Total: 
 
