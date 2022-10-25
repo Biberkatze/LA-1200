@@ -20,11 +20,13 @@ Wir entwickeln ein Vokabeltrainer welcher Vokabeln abfragen kann.
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
 | 1    |        Muss         |   Funktional   | Ich will, dass der Nutzer eine Antwort eingeben kann, damit er spielen kann |
-| ...  |        Muss         |   Funktional   | Ich will, dass die Antwort verglichen wird mit der richtigen Lösung, damit geprüft wird ob meine Antwort korrekt ist    |
-| ...  |        Muss         |   Funktional   | Ich will, dass der Nutzer zwischen 2 Modi wechseln kann    |
-| ...  |        Muss         |   Funktional   | Ich will, dass falsche    |
-| ...  |        Muss         |   Funktional   | Ich will, dass die Wörter in einer zufälligen Reihenfolge abgefragt werden, damit der Nutzer abwechslung hat.    |
-| ...  |        Muss         |   Funktional   | Ich will, dass die Antwort verglichen wird mit der richtigen Lösung, damit geprüft wird ob meine Antwort korrekt ist    |
+| 2    |        Muss         |   Funktional   | Ich will, dass die Antwort verglichen wird mit der richtigen Lösung, damit geprüft wird ob meine Antwort korrekt ist    |
+| 3    |        Muss         |   Funktional   | Ich will, dass der Nutzer zwischen 2 Modi wechseln kann    |
+| 4    |        Muss         |   Funktional   | Ich will, dass falsche Wörter    |
+| 5    |        Muss         |   Funktional   | Ich will, dass die Wörter in einer zufälligen Reihenfolge abgefragt werden, damit der Nutzer abwechslung hat.    |
+| 6    |        kann         |   Funktional   | Ich will, dass bei jeder korrekten Eingabe die Punktzahl um 1 erhöht wird, damit der Spieler weiss wie gut er ist.    |
+| 6    |        kann         |   Funktional   |    |
+| 6    |        kann         |   Funktional   | Ich will, dass ein Timer die Zeit von jedem    |
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
 
