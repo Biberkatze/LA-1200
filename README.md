@@ -19,14 +19,14 @@ Wir entwickeln ein Vokabeltrainer welcher Vokabeln abfragen kann.
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1    |        Muss         |   Funktional   | Ich will, dass der Nutzer eine Antwort eingeben kann, damit er spielen kann |
-| 2    |        Muss         |   Funktional   | Ich will, dass die Antwort verglichen wird mit der richtigen Lösung, damit geprüft wird ob meine Antwort korrekt ist    |
-| 3    |        Muss         |   Funktional   | Ich will, dass der Nutzer zwischen 2 Modi wechseln kann    |
-| 4    |        Muss         |   Funktional   | Ich will, dass falsche Wörter    |
+| 1    |        Muss         |   Funktional   | Ich will, dass der Nutzer eine Antwort eingeben kann, damit er spielen kann. |
+| 2    |        Muss         |   Funktional   | Ich will, dass die Antwort verglichen wird mit der richtigen Lösung, damit geprüft wird ob meine Antwort korrekt ist.    |
+| 3    |        Muss         |   Funktional   | Ich will, dass der Nutzer zwischen 2 Modi wechseln kann, damit er die Wörter besser lernt.   |
+| 4    |        Muss         |   Funktional   | Ich will, dass falsche Wörter in einem zusätzlichen Array gespeichert werden, dass sie später nochmal angezeigt werden.   |
 | 5    |        Muss         |   Funktional   | Ich will, dass die Wörter in einer zufälligen Reihenfolge abgefragt werden, damit der Nutzer abwechslung hat.    |
-| 6    |        kann         |   Funktional   | Ich will, dass bei jeder korrekten Eingabe die Punktzahl um 1 erhöht wird, damit der Spieler weiss wie gut er ist.    |
-| 6    |        kann         |   Funktional   |    |
-| 6    |        kann         |   Funktional   | Ich will, dass ein Timer die Zeit von jedem    |
+| 6    |        kann         |   Funktional   | Ich will, dass bei jeder korrekten Eingabe die Punktzahl um 1 erhöht wird, um spass zu haben.    |
+| 7    |        kann         |   Funktional   | Ich will, dass am Ende der Runde die Punktzahl ausgegeben wird, um zu wissen wie gut man war.   |
+
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
 
