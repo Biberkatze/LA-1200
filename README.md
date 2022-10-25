@@ -28,10 +28,12 @@ Wir entwickeln ein Vokabeltrainer welcher Vokabeln abfragen kann.
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
-| 1.1  |              |         |                   |
-| ...  |              |         |                   |
-
-✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
+| 1.1  |    Programm gestartet          |    Keine eingabe     |    Deutsch -> Englisch / Englisch -> Deutsch             |
+| 1.2  |    Programm gestartet          |    Deutsch -> Englisch     |   Es werden Deutsche wörter angezeigt. Bitte übersetzen Sie diese auf Englisch |
+| 1.3  |    Programm gestartet          |    richtiges wort     |        Gut gemacht           |
+| 1.4  |    Programm gestartet          |    falsches wort     |         bitte nochmal wiederholen          |
+| 1.5  |    Programm gestartet          |    letztes richtiges wort  |   Sie haben alle wörter richtig geschrieben.|
+| 1.6  |    Programm gestartet          |    Nummer          |           Bitte geben keine Zahl sondern ein Wort ein.     |
 
 ### 1.4 Diagramme
 
