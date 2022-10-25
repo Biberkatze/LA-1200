@@ -43,7 +43,8 @@ Wir entwickeln ein Vokabeltrainer welcher Vokabeln abfragen kann.
 
 ### 1.4 Diagramme
 
-✍️ Hier können Sie PAPs, Use Case- und Gantt-Diagramme oder Ähnliches einfügen.
+![Hauptprogramm 1](https://user-images.githubusercontent.com/110891559/197721147-887673c6-b615-430d-af8a-a3d2f4c320bb.png)
+
 
 ## 2 Planen
 
