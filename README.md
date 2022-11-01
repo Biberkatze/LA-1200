@@ -20,7 +20,7 @@ Wir entwickeln ein Vokabeltrainer welcher Vokabeln abfragen kann.
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
 | 1    |        Muss         |   Funktional   | Ich will, dass der Nutzer eine Antwort eingeben kann, damit er spielen kann. |
-| 2    |        Muss         |   Funktional   | Ich will, dass die Antwort verglichen wird mit der richtigen Lösung, damit geprüft wird ob meine Antwort korrekt ist.    |
+| 2    |        Muss         |   Funktional   | Ich will, dass meine Antwort mit der Richtigen Lösung verglichen wird, dass der Nutzer weiss ob er richtig lag.    |
 | 3    |        Muss         |   Funktional   | Ich will, dass der Nutzer zwischen 2 Modi wechseln kann, damit er die Wörter besser lernt.   |
 | 4    |        Muss         |   Funktional   | Ich will, dass falsche Wörter in einem zusätzlichen Array gespeichert werden, dass sie später nochmal angezeigt werden.   |
 | 5    |        Muss         |   Funktional   | Ich will, dass die Wörter in einer zufälligen Reihenfolge abgefragt werden, damit der Nutzer abwechslung hat.    |
@@ -50,14 +50,13 @@ Wir entwickeln ein Vokabeltrainer welcher Vokabeln abfragen kann.
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A |       |           |              |               |
-| 2.B |       |           |              |               |
-| 3.C |       |           |              |               |
-| 4.D |       |           |              |               |
-| 5.E |       |           |              |               |
-| 6.F |       |           |              |               |
-
-Total: 
+| 1.A |   01.11.2022    |    Justus  |      Ich will, dass der Nutzer eine Antwort eingeben kann, damit er spielen kann.        |   45 min.  |
+| 2.B |   08.11.2022    |    Justus  | Ich will, dass meine Antwort mit der Richtigen Lösung verglichen wird, dass der Nutzer weiss ob er richtig lag.  |   45 min.  |
+| 3.C |   08.11.2022    |    Elias   | Ich will, dass der Nutzer zwischen 2 Modi wechseln kann, damit er die Wörter besser lernt.           |   90 min.  |
+| 4.D |   08.11.2022    |    Robin   | Ich will, dass falsche Wörter in einem zusätzlichen Array gespeichert werden, dass sie später nochmal angezeigt werden.|   90 min.  |
+| 5.E |   08.11.2022    |    Cedric  |   Ich will, dass die Wörter in einer zufälligen Reihenfolge abgefragt werden, damit der Nutzer abwechslung hat.   |   60 min.  |
+| 6.F |   15.11.2022    |    Fabian  |   Ich will, dass bei jeder korrekten Eingabe die Punktzahl um 1 erhöht wird, um spass zu haben.           |   45 min.  |
+| 7.G |   15.11.2022    |    Fabian  |    Ich will, dass am Ende der Runde die Punktzahl ausgegeben wird, um zu wissen wie gut man war.          |   45 min.  |
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, auf die sich das Arbeitspaket bezieht, und `m` von `A` an nach oben buchstabiert. Beispiel: Das dritte Arbeitspaket, das die zweite User Story betrifft, hat also die Nummer `2.C`.
 
@@ -65,7 +64,7 @@ Total:
 
 ## 3 Entscheiden
 
-✍️ Dokumentieren Sie hier Ihre Entscheidungen und Annahmen, die Sie im Bezug auf Ihre User Stories und die Implementierung getroffen haben.
+Wir wollen Sven nicht in unserer Gruppe, weil er Gagalaris ist
 
 ## 4 Realisieren
 
