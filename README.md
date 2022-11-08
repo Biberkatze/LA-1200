@@ -55,7 +55,7 @@ Wir entwickeln ein Vokabeltrainer welcher Vokabeln abfragen kann.
 | 2.B |   01.11.2022    |    Justus  | Antwort Eingabe  |   45 min.  |
 | 3.C |   01.11.2022    |    Cedric  | Überprüfung der eingegebenen Antwort.  |   45 min.  |
 | 4.D |   08.11.2022    |    Elias   | Alles mit Try Catch behandeln.          |   90 min.  |
-| 5.E |   08.11.2022    |    Robin   | speichern von falschen Wörtern fürs Repetieren|   90 min.  |
+| 5.E |   08.11.2022    |    Robin   | speichern von falschen Wörtern fürs Repetieren   |   90 min.  |
 | 6.F |   08.11.2022    |    Cedric  | Zufällige Reihenfolge von den Wörtern  |   60 min.  |
 | 7.G |   08.11.2022    |    Fabian  | Scorecounter der immer um 1 erhöht wird.        |   45 min.  |
 | 8.H |   08.11.2022    |    Fabian  | Ausgabe der Punkte am Ende der Runde.   |   45 min.  |
