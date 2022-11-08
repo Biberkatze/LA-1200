@@ -1,30 +1,33 @@
-﻿using System;
-using System.IO;
-
-namespace LA_1200
+﻿namespace Faschlsche_Wérter
 {
     internal class Program
     {
         static void Main(string[] args)
         {
+            string[] test = new string[3];
+            test[0] = "gagalaris";
+            test[1] = "gagalaris 2";
+            test[2] = "gagalaris 3";
+
+            int counter = 0;
            
-            string inPath = @"List.txt";
-            string text = File.ReadAllText(inPath);
-            string[] lines = text.Split(";");
-            int mode;
-            int i = 0;
-
-            Console.WriteLine("Welcome to this Vacabluary learning Programm!");
+            Random number = new Random();  //random rumber
+            int x = number.Next(1, 4);
+            x -= 1;
+            Console.WriteLine(test[x]);
             
-
-            for (i = 0; i < lines.Length; i++)
+            string eingabe = Console.ReadLine();
+           
+            if (eingabe == test[1])
             {
-                string[] words = lines[i].Split(";");
-                Console.Write(words[0]);
+                counter++;
+                Console.WriteLine("Glückwunsch");
             }
 
-
-
+            else if (eingabe != test[1])
+            {
+                Console.WriteLine("versuche noch mal");
+            }
         }
     }
 }
