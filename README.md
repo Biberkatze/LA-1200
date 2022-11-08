@@ -22,7 +22,7 @@ Wir entwickeln ein Vokabeltrainer welcher Vokabeln abfragen kann.
 | 1    |        Muss         |   Funktional   | Ich will, dass die erstellte Datenbank eingelesen wird, dass wir Wörter in einem Array speichern können |
 | 2    |        Muss         |   Funktional   | Ich will, dass der Nutzer eine Antwort eingeben kann, damit er spielen kann. |
 | 3    |        Muss         |   Funktional   | Ich will, dass meine Antwort mit der Richtigen Lösung verglichen wird, dass der Nutzer weiss ob er richtig lag.    |
-| 4    |        Muss         |   Funktional   | Ich will, dass der Nutzer zwischen 2 Modi wechseln kann, damit er die Wörter besser lernt.   |
+| 4    |        Muss         |   Funktional   | Ich will, dass alles mit Try Catch behandelt wird, dass es keine Fehler gibt.   |
 | 5    |        Muss         |   Funktional   | Ich will, dass falsche Wörter in einem zusätzlichen Array gespeichert werden, dass sie später nochmal angezeigt werden.   |
 | 6    |        Muss         |   Funktional   | Ich will, dass die Wörter in einer zufälligen Reihenfolge abgefragt werden, damit der Nutzer abwechslung hat.    |
 | 7    |        kann         |   Funktional   | Ich will, dass bei jeder korrekten Eingabe die Punktzahl um 1 erhöht wird, um spass zu haben.    |
@@ -37,7 +37,7 @@ Wir entwickeln ein Vokabeltrainer welcher Vokabeln abfragen kann.
 | ---- | ------------ | ------- | ----------------- |
 | 1.2  |    Programm gestartet          |    Keine eingabe     |    Deutsch -> Englisch / Englisch -> Deutsch             |
 | 1.3  |    Programm gestartet          |    Deutsch -> Englisch     |   Es werden Deutsche wörter angezeigt. Bitte übersetzen Sie diese auf Englisch |
-| 1.4  |    Programm gestartet          |    richtiges wort     |        Gut gemacht           |
+| 1.4  |    Programm gestartet          |    faklsche SChreibweise   |        Eingabe ungültig, probiere nochmal         |
 | 1.5  |    Programm gestartet          |    falsches wort     |         bitte nochmal wiederholen          |
 | 1.6  |    Programm gestartet          |    letztes richtiges wort  |   Sie haben alle wörter richtig geschrieben.|
 | 1.7  |    Programm gestartet          |    Nummer          |           Bitte geben keine Zahl sondern ein Wort ein.     |
@@ -54,7 +54,7 @@ Wir entwickeln ein Vokabeltrainer welcher Vokabeln abfragen kann.
 | 1.A |   01.11.2022    |    Justus  | die Datenbank einlesen  |   45 min.  |
 | 2.B |   01.11.2022    |    Justus  | Antwort Eingabe  |   45 min.  |
 | 3.C |   01.11.2022    |    Cedric  | Überprüfung der eingegebenen Antwort.  |   45 min.  |
-| 4.D |   08.11.2022    |    Elias   | 2. Modus, den man auswählen kann.          |   90 min.  |
+| 4.D |   08.11.2022    |    Elias   | Alles mit Try Catch behandeln.          |   90 min.  |
 | 5.E |   08.11.2022    |    Robin   | speichern von falschen Wörtern fürs Repetieren|   90 min.  |
 | 6.F |   08.11.2022    |    Cedric  | Zufällige Reihenfolge von den Wörtern  |   60 min.  |
 | 7.G |   08.11.2022    |    Fabian  | Scorecounter der immer um 1 erhöht wird.        |   45 min.  |
