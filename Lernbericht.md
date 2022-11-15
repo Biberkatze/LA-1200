@@ -6,9 +6,9 @@ Gruppe RAM: Tuma, Meyer, Spycher, Meister, Sacher
 
 In unserem Projekt haben wir ein Vokabeltrainer programmiert.
 
-## Was habe wir gelernt?
+## Was haben wir gelernt?
 
-
+Wir haben gelernt wie man Texdateien in ein Programm einlesen und diese in eine Array speichern kann.
 
 ## Beschreibung
 
