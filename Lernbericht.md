@@ -61,13 +61,15 @@ In line 8 wir ein Array erstellt welches später für die eingegebenen antworten
 
 ## Verifikation
 
-✍️ Erklären Sie kurz und bündig, inwiefern die von Ihnen verwendeten Medien zeigen, was Sie gelernt haben.
+Das Bild der Textdatei zeigt unsere Texdatei, welche eingelsen wird
+
+Die zwei Screenshots von der Console zeigen die Ausgabe des Programms
+
+Der Codeausschnitt zeigt die Zeilen Code, welche für das einlesen und speichern der Textdateien zuständig sind
 
 # Reflexion zum Arbeitsprozess
 
-👍 Überlegen Sie sich jeweils etwas, was gut an Ihrer Arbeit lief;
-
- 
+Als wir unser Problem mit der Organisation bemerkt haben, haben wir ensprechend reagiert und an dem zweiten Tag der Realisationsphase fast die ganze Zeit gearbeitet und das Programm innerhalb weniger Stunden fertig programmiert.
 
 Wir hatten Probleme mit dem Organisieren, weil mehrere Mitglieder technische Probleme mit den Audiogeräten hatten, zudem war unser Gruppenleiter an einem Tag krankheitsbedingt nicht anwesend.
 
