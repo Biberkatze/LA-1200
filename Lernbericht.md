@@ -66,4 +66,4 @@ Wir hatten Probleme mit dem Organisieren, weil mehrere Mitglieder technische Pro
 
 **VBV**: 
 
-Wir hätten den Gruppenleiter fragen sollen, was zu tun ist und wie wir weiter vorgehen sollen. ausserdem müssen wir i zukunft allgemein besser und vor allem genauer planen.
+Wir hätten den Gruppenleiter fragen sollen, was zu tun ist und wie wir weiter vorgehen sollen. ausserdem müssen wir in Zukunft allgemein besser und vor allem genauer planen.
