@@ -29,7 +29,7 @@ Hier sieht man Wörter die falsch oder
 
 ![grafik](https://user-images.githubusercontent.com/110892658/201871767-33d21430-f99a-45c4-acc4-20a024732e25.png)
 
-
+Dieses Bild ist die Textdatei mit den englischen Wörtern, welche eingelesen wird.
 ```c#
  string inPathG = @"List_G.txt";
             string inPathE = @"List_E.txt";
