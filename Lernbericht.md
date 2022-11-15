@@ -8,7 +8,7 @@ In unserem Projekt haben wir ein Vokabeltrainer programmiert.
 
 ## Was haben wir gelernt?
 
-Wir haben gelernt wie man Texdateien in ein Programm einlesen und diese in eine Array speichern kann.
+Wir haben gelernt wie man Texdateien in ein Programm einlesen und diese in einem Array speichern kann.
 
 ## Beschreibung
 
