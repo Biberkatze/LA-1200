@@ -18,7 +18,7 @@ man sieht wie nach der letzten Frage alle falschen Antworten ausgegeben werden, 
 
 ![grafik](https://user-images.githubusercontent.com/110892658/201876578-85e2bdef-5fef-44f0-afaf-44a441041416.png)
 
-Hier sieht man Wörter die falsch
+Hier sieht man Wörter die falsch sind
 
 ![grafik](https://user-images.githubusercontent.com/110892658/201871767-33d21430-f99a-45c4-acc4-20a024732e25.png)
 
@@ -46,7 +46,7 @@ In der line 7 wird eine Liste erstellt, in welcher später der Index von den sch
 
 In line 8 wir ein Array erstellt welches später für die eingegebenen antworten des Benutzers verwendet wird.
 
-* Ein Link zu einem *selbst aufgenommenen* youtube-Video oder `.gif`.
+
 
 ## Verifikation
 
