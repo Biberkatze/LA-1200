@@ -18,7 +18,7 @@ man sieht wie nach der letzten Frage alle falschen Antworten ausgegeben werden, 
 
 ![grafik](https://user-images.githubusercontent.com/110892658/201876578-85e2bdef-5fef-44f0-afaf-44a441041416.png)
 
-Hier sieht man Wörter die falsch oder
+Hier sieht man Wörter die falsch
 
 ![grafik](https://user-images.githubusercontent.com/110892658/201871767-33d21430-f99a-45c4-acc4-20a024732e25.png)
 
