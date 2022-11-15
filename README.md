@@ -73,11 +73,11 @@ Wir haben uns entschieden nur funktionale Userstories im muss umzusetzen, weil w
 | ---- | ----- | --------- | ------------- | ----------------- |
 | 1.A  |   01.11.2022    |     Justus      |       20 min.        |          30 min.         |
 | 2.B  |   08.11.2022    |     Justus      |       50 min.        |          55 min.         |
-| 3.C  |   08.11.2022    |     Cedric      |       45 min.        |         40 min.          |
+| 3.C  |   08.11.2022    |     Cedric      |       45 min.        |         50 min.          |
 | 4.D  |   08.11.2022    |     Elias       |       45 min.        |         45 min.          |
 | 5.E  |   08.11.2022    |     Robin       |       50 min.        |          49 min.         |
-| 6.F  |   08.11.2022    |     Cedric      |       20 min.        |         10 min.          |
-| 7.G  |   08.11.2022    |     Fabian      |       10 min.        |         5 min.          |
+| 6.F  |   08.11.2022    |     Cedric      |       20 min.        |         40 min.          |
+| 7.G  |   08.11.2022    |     Fabian      |       10 min.        |         5 min.           |
 | 8.H  |   08.11.2022    |     Fabian      |       20 min.        |         15 min.          |
 
 
