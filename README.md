@@ -69,12 +69,12 @@ Wir haben uns entschieden nur funktionale Userstories im muss umzusetzen, weil w
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  |   01.11.2022    |     Justus      |       45 min.        |          90 min         |
-| 2.B  |   08.11.2022    |     Justus      |       45 min.        |          90 min         |
-| 3.C  |   08.11.2022    |     Cedric      |       45 min.        |                   |
-| 4.D  |   08.11.2022    |     Elias       |       90 min.        |                   |
-| 5.E  |   08.11.2022    |     Robin       |       90 min.        |                   |
-| 6.F  |   08.11.2022    |     Fabian      |       60 min.        |                   |
+| 1.A  |   01.11.2022    |     Justus      |       20 min.        |          30 min         |
+| 2.B  |   08.11.2022    |     Justus      |       50 min.        |          55 min         |
+| 3.C  |   08.11.2022    |     Cedric      |       45 min.        |         40 min          |
+| 4.D  |   08.11.2022    |     Elias       |       45 min.        |         45 min          |
+| 5.E  |   08.11.2022    |     Robin       |       40 min.        |          49 min         |
+| 6.F  |   08.11.2022    |     Fabian      |       60 min.        |         60 min          |
 
 
 
