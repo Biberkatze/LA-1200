@@ -51,14 +51,14 @@ Wir entwickeln ein Vokabeltrainer welcher Vokabeln abfragen kann.
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A |   01.11.2022    |    Justus  | die Datenbank einlesen  |   45 min.  |
-| 2.B |   01.11.2022    |    Justus  | Antwort Eingabe  |   45 min.  |
+| 1.A |   01.11.2022    |    Justus  | die Datenbank einlesen  |   20 min.  |
+| 2.B |   01.11.2022    |    Justus  | Antwort Eingabe  |   50 min.  |
 | 3.C |   01.11.2022    |    Cedric  | Überprüfung der eingegebenen Antwort.  |   45 min.  |
-| 4.D |   08.11.2022    |    Elias   | Alles mit Try Catch behandeln.          |   90 min.  |
-| 5.E |   08.11.2022    |    Robin   | speichern von falschen Wörtern fürs Repetieren   |   90 min.  |
-| 6.F |   08.11.2022    |    Cedric  | Zufällige Reihenfolge von den Wörtern  |   60 min.  |
-| 7.G |   08.11.2022    |    Fabian  | Scorecounter der immer um 1 erhöht wird.        |   45 min.  |
-| 8.H |   08.11.2022    |    Fabian  | Ausgabe der Punkte am Ende der Runde.   |   45 min.  |
+| 4.D |   08.11.2022    |    Elias   | Alles mit Try Catch behandeln.          |   45 min.  |
+| 5.E |   08.11.2022    |    Robin   | speichern von falschen Wörtern fürs Repetieren   |   50 min.  |
+| 6.F |   08.11.2022    |    Cedric  | Zufällige Reihenfolge von den Wörtern  |   20 min.  |
+| 7.G |   08.11.2022    |    Fabian  | Scorecounter der immer um 1 erhöht wird.        |   10 min.  |
+| 8.H |   08.11.2022    |    Fabian  | Ausgabe der Punkte am Ende der Runde.   |   20 min.  |
 
 
 ## 3 Entscheiden
@@ -69,12 +69,15 @@ Wir haben uns entschieden nur funktionale Userstories im muss umzusetzen, weil w
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  |   01.11.2022    |     Justus      |       20 min.        |          30 min         |
-| 2.B  |   08.11.2022    |     Justus      |       50 min.        |          55 min         |
-| 3.C  |   08.11.2022    |     Cedric      |       45 min.        |         40 min          |
-| 4.D  |   08.11.2022    |     Elias       |       45 min.        |         45 min          |
-| 5.E  |   08.11.2022    |     Robin       |       40 min.        |          49 min         |
-| 6.F  |   08.11.2022    |     Fabian      |       60 min.        |         60 min          |
+| 1.A  |   01.11.2022    |     Justus      |       20 min.        |          30 min.         |
+| 2.B  |   08.11.2022    |     Justus      |       50 min.        |          55 min.         |
+| 3.C  |   08.11.2022    |     Cedric      |       45 min.        |         40 min.          |
+| 4.D  |   08.11.2022    |     Elias       |       45 min.        |         45 min.          |
+| 5.E  |   08.11.2022    |     Robin       |       50 min.        |          49 min.         |
+| 6.F  |   08.11.2022    |     Cedric      |       20 min.        |         10 min.          |
+| 6.G  |   08.11.2022    |     Fabian      |       10 min.        |         5 min.          |
+| 6.H  |   08.11.2022    |     Fabian      |       20 min.        |         15 min.          |
+
 
 
 
