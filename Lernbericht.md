@@ -24,7 +24,7 @@ Hier sieht man Wörter die falsch sind
 
 Dieses Bild ist die Textdatei mit den englischen Wörtern, welche eingelesen wird.
 ```c#
- string inPathG = @"List_G.txt";
+            string inPathG = @"List_G.txt";
             string inPathE = @"List_E.txt";
             string textG = File.ReadAllText(inPathG);
             string textE = File.ReadAllText(inPathE);
