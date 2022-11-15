@@ -75,8 +75,8 @@ Wir haben uns entschieden nur funktionale Userstories im muss umzusetzen, weil w
 | 4.D  |   08.11.2022    |     Elias       |       45 min.        |         45 min.          |
 | 5.E  |   08.11.2022    |     Robin       |       50 min.        |          49 min.         |
 | 6.F  |   08.11.2022    |     Cedric      |       20 min.        |         10 min.          |
-| 6.G  |   08.11.2022    |     Fabian      |       10 min.        |         5 min.          |
-| 6.H  |   08.11.2022    |     Fabian      |       20 min.        |         15 min.          |
+| 7.G  |   08.11.2022    |     Fabian      |       10 min.        |         5 min.          |
+| 8.H  |   08.11.2022    |     Fabian      |       20 min.        |         15 min.          |
 
 
 
