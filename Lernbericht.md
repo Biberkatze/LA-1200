@@ -17,9 +17,11 @@ Wir haben gelernt wie man Texdateien in ein Programm einlesen und diese in eine 
 * Eine textliche Beschreibung
 ![grafik](https://user-images.githubusercontent.com/110892658/201874804-8427aaf2-d867-4710-9c82-2a0726569112.png)
 
+man sieht wie nach der letzten Frage alle falschen Antworten ausgegeben werden, diese Wörter wurden zuvor über die txt eingelesen.
 
-![grafik](https://user-images.githubusercontent.com/110892658/201874904-97d71177-013d-4268-9ca6-d918dd698d89.png)
+![grafik](https://user-images.githubusercontent.com/110892658/201876578-85e2bdef-5fef-44f0-afaf-44a441041416.png)
 
+Hier sieht man Wörter die falsch oder
 
 
 
