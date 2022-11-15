@@ -4,11 +4,11 @@ Gruppe RAM: Tuma, Meyer, Spycher, Meister, Sacher
 
 ## Einleitung
 
-✍️ Ein Satz, worum es in dem Projekt ging. Muss für einen externen Leser einfach zu verstehen sein.
+In unserem Projekt haben wir ein Vokabeltrainer programmiert.
 
-## Was habe ich gelernt?
+## Was habe wir gelernt?
 
-✍️ Beschreiben Sie in einem Satz **eine** Sache, die Sie bei diesem Projekt gelernt haben und die Sie in diesem Lern-Bericht dokumentieren.
+
 
 ## Beschreibung
 
