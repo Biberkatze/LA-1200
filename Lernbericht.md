@@ -17,6 +17,9 @@ Wir haben gelernt wie man Texdateien in ein Programm einlesen und diese in eine 
 * Eine textliche Beschreibung
 * Ein deutliches, aussagekräftiges Bild oder eine kommentierte Bildschirm-Aufnahme
 
+![grafik](https://user-images.githubusercontent.com/110892658/201871767-33d21430-f99a-45c4-acc4-20a024732e25.png)
+
+
 ```c#
  string inPathG = @"List_G.txt";
             string inPathE = @"List_E.txt";
