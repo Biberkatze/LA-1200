@@ -17,8 +17,6 @@ Wir haben gelernt wie man Texdateien in ein Programm einlesen und diese in eine 
 * Eine textliche Beschreibung
 * Ein deutliches, aussagekräftiges Bild oder eine kommentierte Bildschirm-Aufnahme
 
-![grafik](https://user-images.githubusercontent.com/110892658/201861766-5d79b95e-7767-4c6f-a0e4-da904042428a.png)
-
 ```c#
 
 ```
