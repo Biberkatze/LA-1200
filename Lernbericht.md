@@ -17,7 +17,8 @@ Wir haben gelernt wie man Texdateien in ein Programm einlesen und diese in eine 
 * Eine textliche Beschreibung
 * Ein deutliches, aussagekräftiges Bild oder eine kommentierte Bildschirm-Aufnahme
 
-![grafik](https://user-images.githubusercontent.com/110892658/201856770-d408b817-c072-4577-b143-23f3b48c81d9.png)
+![grafik](https://user-images.githubusercontent.com/110892658/201861766-5d79b95e-7767-4c6f-a0e4-da904042428a.png)
+
 In diesem Auschnitt unseres Codes werden die zwei Textfiles mit den englischen Wörtern und den deutschen Übersetzungen in zwei verschiedenen Arrays gespeichert
 
 
