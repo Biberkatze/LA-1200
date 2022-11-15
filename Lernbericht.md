@@ -20,9 +20,6 @@ Man sieht wie nach der letzten Frage alle falschen Antworten ausgegeben werden, 
 
 Hier sieht man Wörter die falsch sind
 
-![grafik](https://user-images.githubusercontent.com/110892658/201871767-33d21430-f99a-45c4-acc4-20a024732e25.png)
-
-Dieses Bild ist die Textdatei mit den englischen Wörtern, welche eingelesen wird.
 ```c#
             string inPathG = @"List_G.txt";
             string inPathE = @"List_E.txt";
@@ -50,11 +47,11 @@ In line 8 wir ein Array erstellt welches später für die eingegebenen antworten
 
 ## Verifikation
 
-Das Bild der Textdatei zeigt unsere Texdatei, welche eingelsen wird
+Die zwei Screenshots von der Console zeigen die Ausgabe des Programms.
 
-Die zwei Screenshots von der Console zeigen die Ausgabe des Programms
+Der Videoclip zeigt den Ablauf des Programms, von Start des Programms bis zur Ausgabe.
 
-Der Codeausschnitt zeigt die Zeilen Code, welche für das einlesen und speichern der Textdateien zuständig sind
+Der Codeausschnitt zeigt die Zeilen Code, welche für das einlesen und speichern der Textdateien zuständig sind.
 
 # Reflexion zum Arbeitsprozess
 
