@@ -58,8 +58,10 @@ Der Codeausschnitt zeigt die Zeilen Code, welche für das einlesen und speichern
 
 # Reflexion zum Arbeitsprozess
 
+**Was lief gut?**
 Als wir unser Problem mit der Organisation bemerkt haben, haben wir ensprechend reagiert und an dem zweiten Tag der Realisationsphase fast die ganze Zeit gearbeitet und das Programm innerhalb weniger Stunden fertig programmiert.
 
+**Was lief schlecht?**
 Wir hatten Probleme mit dem Organisieren, weil mehrere Mitglieder technische Probleme mit den Audiogeräten hatten, zudem war unser Gruppenleiter an einem Tag krankheitsbedingt nicht anwesend.
 
 **VBV**: 
