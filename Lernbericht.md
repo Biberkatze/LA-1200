@@ -12,8 +12,6 @@ Wir haben gelernt wie man Texdateien in ein Programm einlesen und diese in eine 
 
 ## Beschreibung
 
-✍️ Verwenden Sie drei verschiedene Medien, um zu zeigen, was Sie gelernt haben. Zum Beispiel:
-
 * Eine textliche Beschreibung
 ![grafik](https://user-images.githubusercontent.com/110892658/201874804-8427aaf2-d867-4710-9c82-2a0726569112.png)
 
@@ -22,10 +20,6 @@ man sieht wie nach der letzten Frage alle falschen Antworten ausgegeben werden, 
 ![grafik](https://user-images.githubusercontent.com/110892658/201876578-85e2bdef-5fef-44f0-afaf-44a441041416.png)
 
 Hier sieht man Wörter die falsch oder
-
-
-
-
 
 ![grafik](https://user-images.githubusercontent.com/110892658/201871767-33d21430-f99a-45c4-acc4-20a024732e25.png)
 
@@ -53,10 +47,6 @@ In der line 7 wird eine Liste erstellt, in welcher später der Index von den sch
 
 In line 8 wir ein Array erstellt welches später für die eingegebenen antworten des Benutzers verwendet wird.
 
-
-
-
-
 * Ein Link zu einem *selbst aufgenommenen* youtube-Video oder `.gif`.
 
 ## Verifikation
@@ -73,6 +63,6 @@ Als wir unser Problem mit der Organisation bemerkt haben, haben wir ensprechend 
 
 Wir hatten Probleme mit dem Organisieren, weil mehrere Mitglieder technische Probleme mit den Audiogeräten hatten, zudem war unser Gruppenleiter an einem Tag krankheitsbedingt nicht anwesend.
 
-**VBV**: ✍️ Formulieren Sie davon ausgehend einen *handelbaren* Verbesserungsvorschlag.
+**VBV**: 
 
-Wir hätten den Gruppenleiter fragen sollen, was zu tun ist und wie wir weiter vorgehen sollen.
+Wir hätten den Gruppenleiter fragen sollen, was zu tun ist und wie wir weiter vorgehen sollen. ausserdem müssen wir i zukunft allgemein besser und vor allem genauer planen.
