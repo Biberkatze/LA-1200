@@ -41,7 +41,7 @@ Wir entwickeln ein Vokabeltrainer welcher Vokabeln abfragen kann. Am Ende wird g
 | 1.3  |    Programm gestartet          |    Deutsch -> Englisch     |   Es werden Deutsche Wörter angezeigt. Bitte übersetzen Sie diese auf Englisch |
 | 1.4  |    Programm gestartet          |    Falsche Schreibweise   |    Eingabe ungültig, probiere nochmal.         |
 | 1.5  |    Programm gestartet          |    Falsches wort     |         bitte nochmal wiederholen.          |
-| 1.6  |    Programm gestartet          |    Letztes richtiges Wort  |   Sie haben alle Wörter richtig geschrieben.       |
+| 1.6  |    Programm gestartet          |   alles ausser y/n  |   invalid Input      |
 
 
 ### 1.4 Diagramme
@@ -93,7 +93,7 @@ Wir haben uns entschieden nur funktionale Userstories im muss umzusetzen, weil w
 | 1.3  |   15.11.2022    |     Nicht Vorhanden     |    Fabian    |
 | 1.4  |   15.11.2022    |     Funktioniert, keine abstürze bei zahlen oder zeichen     |    Fabian    |
 | 1.5  |   15.11.2022    |    gleich wie 1.4      |    Fabian    |
-| 1.6  |   15.11.2022    |    Nicht vorhnaden|    Fabian    |
+| 1.6  |   15.11.2022    |    programm geht nicht weiter(grund unbekannt)|    Fabian    |
 
 
 
