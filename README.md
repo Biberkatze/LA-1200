@@ -29,7 +29,7 @@ Wir entwickeln ein Vokabeltrainer welcher Vokabeln abfragen kann.
 | 8    |        kann         |   Funktional   | Ich will, dass am Ende der Runde die Punktzahl ausgegeben wird, um zu wissen wie gut man war.   |
 
 
-✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
+
 
 ### 1.3 Testfälle
 
@@ -60,9 +60,6 @@ Wir entwickeln ein Vokabeltrainer welcher Vokabeln abfragen kann.
 | 7.G |   08.11.2022    |    Fabian  | Scorecounter der immer um 1 erhöht wird.        |   45 min.  |
 | 8.H |   08.11.2022    |    Fabian  | Ausgabe der Punkte am Ende der Runde.   |   45 min.  |
 
-✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, auf die sich das Arbeitspaket bezieht, und `m` von `A` an nach oben buchstabiert. Beispiel: Das dritte Arbeitspaket, das die zweite User Story betrifft, hat also die Nummer `2.C`.
-
-✍️ Ein Arbeitspaket sollte etwa 45' für eine Person in Anspruch nehmen. Die totale Anzahl Arbeitspakete sollte etwa Folgendem entsprechen: `Anzahl R-Sitzungen` ╳ `Anzahl Gruppenmitglieder` ╳ `4`. Wenn Sie also zu dritt an einem Projekt arbeiten, für welches zwei R-Sitzungen geplant sind, sollten Sie auf `2` ╳ `3` ╳`4` = `24` Arbeitspakete kommen. Sollten Sie merken, dass Sie hier nicht genügend Arbeitspakte haben, denken Sie sich weitere "Kann"-User Stories für Kapitel 1.2 aus.
 
 ## 3 Entscheiden
 
@@ -79,7 +76,7 @@ Wir haben uns entschieden nur funktionale Userstories im muss umzusetzen, weil w
 | 5.E  |   08.11.2022    |     Robin       |       90 min.        |                   |
 | 6.F  |   08.11.2022    |     Fabian      |       60 min.        |                   |
 
-✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
+
 
 ## 5 Kontrollieren
 
@@ -94,16 +91,6 @@ Wir haben uns entschieden nur funktionale Userstories im muss umzusetzen, weil w
 | 1.6  |   8.11.2022    |          |    Elias    |
 | 1.7  |   8.11.2022    |          |    Elias    |
 
-✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
-
-### 5.2 Exploratives Testen
-
-| BR-№ | Ausgangslage | Eingabe | Erwartete Ausgabe | Tatsächliche Ausgabe |
-| ---- | ------------ | ------- | ----------------- | -------------------- |
-| I    |              |         |                   |                      |
-| ...  |              |         |                   |                      |
-
-✍️ Verwenden Sie römische Ziffern für Ihre Bug Reports, also I, II, III, IV etc.
 
 ## 6 Auswerten
 
