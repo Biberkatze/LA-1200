@@ -89,11 +89,11 @@ Wir haben uns entschieden nur funktionale Userstories im muss umzusetzen, weil w
 
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
-| 1.2  |   15.11.2022    |     Nicht vorhanden     |    Fabian    |
-| 1.3  |   15.11.2022    |     Nicht Vorhanden     |    Fabian    |
-| 1.4  |   15.11.2022    |     Funktioniert, keine abstürze bei zahlen oder zeichen     |    Fabian    |
-| 1.5  |   15.11.2022    |    gleich wie 1.4      |    Fabian    |
-| 1.6  |   15.11.2022    |    programm geht nicht weiter(grund unbekannt)|    Fabian    |
+| 1.2  |   15.11.2022    |    Ist Nicht vorhanden     |    Fabian    |
+| 1.3  |   15.11.2022    |    Ist Nicht Vorhanden     |    Fabian    |
+| 1.4  |   15.11.2022    |    Es Funktioniert, keine abstürze bei zahlen oder zeichen     |    Fabian    |
+| 1.5  |   15.11.2022    |    Das Gleiche wie bei 1.4      |    Fabian    |
+| 1.6  |   15.11.2022    |    Das Programm geht nicht weiter(grund unbekannt)|    Fabian    |
 
 
 
