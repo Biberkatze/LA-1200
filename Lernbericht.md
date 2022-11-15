@@ -18,7 +18,14 @@ Wir haben gelernt wie man Texdateien in ein Programm einlesen und diese in eine 
 * Ein deutliches, aussagekräftiges Bild oder eine kommentierte Bildschirm-Aufnahme
 
 ```c#
-
+ string inPathG = @"List_G.txt";
+            string inPathE = @"List_E.txt";
+            string textG = File.ReadAllText(inPathG);
+            string textE = File.ReadAllText(inPathE);
+            string[] linesG = textG.Split("\r\n");
+            string[] linesE = textE.Split("\r\n");
+            List<int> gaggao = new List<int>();
+            String[] answers = new string[20];
 ```
 
 In diesem Auschnitt unseres Codes werden die zwei Textfiles mit den englischen Wörtern und den deutschen Übersetzungen in zwei verschiedenen Arrays gespeichert
