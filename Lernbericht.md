@@ -15,9 +15,13 @@ Wir haben gelernt wie man Texdateien in ein Programm einlesen und diese in eine 
 ✍️ Verwenden Sie drei verschiedene Medien, um zu zeigen, was Sie gelernt haben. Zum Beispiel:
 
 * Eine textliche Beschreibung
+
+
+
 * Ein deutliches, aussagekräftiges Bild oder eine kommentierte Bildschirm-Aufnahme
 
-![grafik](https://user-images.githubusercontent.com/110892658/201856770-d408b817-c072-4577-b143-23f3b48c81d9.png)
+![grafik](https://user-images.githubusercontent.com/110892658/201857052-508c7ab8-98c2-480a-975c-b2c0e8e70e94.png)
+
 
 
 * Ein Link zu einem *selbst aufgenommenen* youtube-Video oder `.gif`.
