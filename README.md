@@ -5,7 +5,7 @@ Gruppe RAM: Tuma, Meister, Spycher, Meyer und Sacher
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-|   25.10.2022    | 0.0.1   |  Wir haben alle Userstories kreeirt und angefangen die Datenbank zu schreiben.     | 
+|   25.10.2022    | 0.0.1   |  Wir haben alle Userstories kreiert und angefangen die Datenbank zu schreiben.     | 
 |   01.11.2022    | 0.1.0   |  Die Datenbank wurde fertiggestellt und die ersten Userstories wurden abgearbeitet.       |
 |   08.11.2022    | 0.1.1   |  Wir haben das Programm fertig programmiert.    |
 
