@@ -20,6 +20,8 @@ Man sieht wie nach der letzten Frage alle falschen Antworten ausgegeben werden, 
 
 Hier sieht man Wörter die falsch sind
 
+https://user-images.githubusercontent.com/110892658/201888072-eac8ec3a-f83e-4422-a848-736b3ce4e06d.mp4
+
 ```c#
             string inPathG = @"List_G.txt";
             string inPathE = @"List_E.txt";
