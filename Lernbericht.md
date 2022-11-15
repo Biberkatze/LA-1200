@@ -12,7 +12,6 @@ Wir haben gelernt wie man Texdateien in ein Programm einlesen und diese in eine 
 
 ## Beschreibung
 
-* Eine textliche Beschreibung
 ![grafik](https://user-images.githubusercontent.com/110892658/201874804-8427aaf2-d867-4710-9c82-2a0726569112.png)
 
 man sieht wie nach der letzten Frage alle falschen Antworten ausgegeben werden, diese Wörter wurden zuvor über die txt eingelesen.
