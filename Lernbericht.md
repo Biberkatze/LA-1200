@@ -33,7 +33,7 @@ In line 1 und 2 ist der Dateipfad der beiden Textfiles angegeben
 In Line 3 und 4 werden die Textfiles zu einem langen string eingelesen
 In line 5 und 6 werden diese beiden langen strings in einzelne Wörter zerlegt und dann in zwei verschiedene Arrays eingespeichert.
 In der line 7 wird eine Liste erstellt, in welcher später der Index von den schon abgefragten Wörter eingespeichert wird
-In line 9 wir ein Array erstellt welches später für die eingegebenen antworten des Benutzers verwendet wird.
+In line 8 wir ein Array erstellt welches später für die eingegebenen antworten des Benutzers verwendet wird.
 
 
 
