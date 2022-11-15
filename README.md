@@ -84,12 +84,12 @@ Wir haben uns entschieden nur funktionale Userstories im muss umzusetzen, weil w
 
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
-| 1.2  |   8.11.2022    |          |    Elias    |
-| 1.3  |   8.11.2022    |          |    Elias    |
-| 1.4  |   8.11.2022    |          |    Elias    |
-| 1.5  |   8.11.2022    |          |    Elias    |
-| 1.6  |   8.11.2022    |          |    Elias    |
-| 1.7  |   8.11.2022    |          |    Elias    |
+| 1.2  |   15.11.2022    |          |    Fabian    |
+| 1.3  |   15.11.2022    |          |    Fabian    |
+| 1.4  |   15.11.2022    |          |    Fabian    |
+| 1.5  |   15.11.2022    |          |    Fabian    |
+| 1.6  |   15.11.2022    |          |    Fabian    |
+| 1.7  |   15.11.2022    |          |    Fabian    |
 
 
 ## 6 Auswerten
