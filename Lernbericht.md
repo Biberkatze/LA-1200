@@ -15,7 +15,15 @@ Wir haben gelernt wie man Texdateien in ein Programm einlesen und diese in eine 
 ✍️ Verwenden Sie drei verschiedene Medien, um zu zeigen, was Sie gelernt haben. Zum Beispiel:
 
 * Eine textliche Beschreibung
-* Ein deutliches, aussagekräftiges Bild oder eine kommentierte Bildschirm-Aufnahme
+![grafik](https://user-images.githubusercontent.com/110892658/201874804-8427aaf2-d867-4710-9c82-2a0726569112.png)
+
+
+![grafik](https://user-images.githubusercontent.com/110892658/201874904-97d71177-013d-4268-9ca6-d918dd698d89.png)
+
+
+
+
+
 
 ![grafik](https://user-images.githubusercontent.com/110892658/201871767-33d21430-f99a-45c4-acc4-20a024732e25.png)
 
@@ -57,8 +65,7 @@ In line 8 wir ein Array erstellt welches später für die eingegebenen antworten
 
 👍 Überlegen Sie sich jeweils etwas, was gut an Ihrer Arbeit lief;
 
-
-
+ 
 
 Wir hatten Probleme mit dem Organisieren, weil mehrere Mitglieder technische Probleme mit den Audiogeräten hatten, zudem war unser Gruppenleiter an einem Tag krankheitsbedingt nicht anwesend.
 
