@@ -15,7 +15,7 @@ Gruppe RAM: Tuma, Meister, Spycher, Meyer und Sacher
 
 ### 1.1 Ihr Projekt
 
-Wir entwickeln ein Vokabeltrainer welcher Vokabeln abfragen kann. Am Ende wird gefragt ob man die Wörter nochmals durchgehen möchte.
+Wir entwickeln ein Vokabeltrainer welcher Vokabeln abfragen kann. Am Ende wird gefragt, ob man die Wörter nochmals durchgehen möchte.
 
 ### 1.2 User Stories
 
@@ -23,12 +23,12 @@ Wir entwickeln ein Vokabeltrainer welcher Vokabeln abfragen kann. Am Ende wird g
 | ---- | --------------- | ---- | ---------------------------------- |
 | 1    |        Muss         |   Funktional   | Ich will, dass die erstellte Datenbank eingelesen wird und wir verschiedene Wörter in einem Array speichern können |
 | 2    |        Muss         |   Funktional   | Ich will, dass der Nutzer eine Antwort eingeben kann, damit er spielen kann. |
-| 3    |        Muss         |   Funktional   | Ich will, dass meine Antwort mit der Richtigen Lösung verglichen wird, dass der Nutzer weiss ob er richtig lag.    |
-| 4    |        Muss         |   Funktional   | Ich will, dass alles mit Try Catch Programmiert wird, dass das Programm nicht abstürzt.   |
+| 3    |        Muss         |   Funktional   | Ich will, dass meine Antwort mit der Richtigen Lösung verglichen wird, dass der Nutzer weiss, ob er richtig lag.    |
+| 4    |        Muss         |   Funktional   | Ich will, dass alles mit Try Catch programmiert wird, dass das Programm nicht abstürzt.   |
 | 5    |        Muss         |   Funktional   | Ich will, dass falsche Wörter in einem zusätzlichen Array gespeichert werden, dass man sie später nochmal lernen kann.   |
 | 6    |        Muss         |   Funktional   | Ich will, dass die Wörter in einer zufälligen Reihenfolge abgefragt werden, damit der Nutzer nicht nur die Reihenfolge der Wörter lernt.    |
 | 7    |        kann         |   Funktional   | Ich will, dass bei jeder korrekten Eingabe die Punktzahl um 1 erhöht wird.    |
-| 8    |        kann         |   Funktional   | Ich will, dass am Ende der Runde die Punktzahl ausgegeben wird, um zu wissen wie gut man war.   |
+| 8    |        kann         |   Funktional   | Ich will, dass am Ende der Runde die Punktzahl ausgegeben wird, um zu wissen, wie gut man war.   |
 
 
 
@@ -37,11 +37,11 @@ Wir entwickeln ein Vokabeltrainer welcher Vokabeln abfragen kann. Am Ende wird g
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
-| 1.2  |    Programm gestartet          |    Keine eingabe     |    Deutsch -> Englisch / Englisch -> Deutsch             |
-| 1.3  |    Programm gestartet          |    Deutsch -> Englisch     |   Es werden Deutsche wörter angezeigt. Bitte übersetzen Sie diese auf Englisch |
+| 1.2  |    Programm gestartet          |    Keine Eingabe     |    Deutsch -> Englisch / Englisch -> Deutsch             |
+| 1.3  |    Programm gestartet          |    Deutsch -> Englisch     |   Es werden Deutsche Wörter angezeigt. Bitte übersetzen Sie diese auf Englisch |
 | 1.4  |    Programm gestartet          |    Falsche Schreibweise   |    Eingabe ungültig, probiere nochmal.         |
 | 1.5  |    Programm gestartet          |    Falsches wort     |         bitte nochmal wiederholen.          |
-| 1.6  |    Programm gestartet          |    Letztes richtiges wort  |   Sie haben alle wörter richtig geschrieben.       |
+| 1.6  |    Programm gestartet          |    Letztes richtiges Wort  |   Sie haben alle Wörter richtig geschrieben.       |
 | 1.7  |    Programm gestartet          |    Nummer          |           Bitte geben keine Zahl sondern ein Wort ein.     |
 
 ### 1.4 Diagramme
@@ -57,7 +57,7 @@ Wir entwickeln ein Vokabeltrainer welcher Vokabeln abfragen kann. Am Ende wird g
 | 2.B |   01.11.2022    |    Justus  | Antwort Eingabe  |   50 min.  |
 | 3.C |   01.11.2022    |    Cedric  | Überprüfung der eingegebenen Antwort.  |   45 min.  |
 | 4.D |   08.11.2022    |    Elias   | Alles mit Try Catch behandeln.          |   45 min.  |
-| 5.E |   08.11.2022    |    Robin   | speichern von falschen Wörtern fürs Repetieren   |   50 min.  |
+| 5.E |   08.11.2022    |    Robin   | Speichern von falschen Wörtern fürs Repetieren   |   50 min.  |
 | 6.F |   08.11.2022    |    Cedric  | Zufällige Reihenfolge von den Wörtern  |   20 min.  |
 | 7.G |   08.11.2022    |    Fabian  | Scorecounter der immer um 1 erhöht wird.        |   10 min.  |
 | 8.H |   08.11.2022    |    Fabian  | Ausgabe der Punkte am Ende der Runde.   |   20 min.  |
