@@ -8,26 +8,26 @@ Gruppe RAM: Tuma, Meister, Spycher, Meyer und Sacher
 |   25.10.2022    | 0.0.1   |  Wir haben alle Userstories kreiert und angefangen die Datenbank zu schreiben.     | 
 |   01.11.2022    | 0.1.0   |  Die Datenbank wurde fertiggestellt und die ersten Userstories wurden abgearbeitet.       |
 |   08.11.2022    | 0.1.1   |  Wir haben das Programm fertig programmiert.    |
-|   15.11.2022    | 0.1.2   |  Das Programm wurde getestet, Der Lernbericht wurde fertiggestellt, Die Projektdokumentation wurde fertiggestellt  |
+|   15.11.2022    | 1.0.0   |  Das Programm wurde getestet, Der Lernbericht und die Projektdokumentation wurden fertiggestellt.   |
 
 
 ## 1 Informieren
 
 ### 1.1 Ihr Projekt
 
-Wir entwickeln ein Vokabeltrainer welcher Vokabeln abfragen kann.
+Wir entwickeln ein Vokabeltrainer welcher Vokabeln abfragen kann. Am Ende wird gefragt ob man die Wörter nochmals durchgehen möchte.
 
 ### 1.2 User Stories
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1    |        Muss         |   Funktional   | Ich will, dass die erstellte Datenbank eingelesen wird, dass wir Wörter in einem Array speichern können |
+| 1    |        Muss         |   Funktional   | Ich will, dass die erstellte Datenbank eingelesen wird und wir verschiedene Wörter in einem Array speichern können |
 | 2    |        Muss         |   Funktional   | Ich will, dass der Nutzer eine Antwort eingeben kann, damit er spielen kann. |
 | 3    |        Muss         |   Funktional   | Ich will, dass meine Antwort mit der Richtigen Lösung verglichen wird, dass der Nutzer weiss ob er richtig lag.    |
-| 4    |        Muss         |   Funktional   | Ich will, dass alles mit Try Catch behandelt wird, dass es keine Fehler gibt.   |
-| 5    |        Muss         |   Funktional   | Ich will, dass falsche Wörter in einem zusätzlichen Array gespeichert werden, dass sie später nochmal angezeigt werden.   |
-| 6    |        Muss         |   Funktional   | Ich will, dass die Wörter in einer zufälligen Reihenfolge abgefragt werden, damit der Nutzer abwechslung hat.    |
-| 7    |        kann         |   Funktional   | Ich will, dass bei jeder korrekten Eingabe die Punktzahl um 1 erhöht wird, um spass zu haben.    |
+| 4    |        Muss         |   Funktional   | Ich will, dass alles mit Try Catch Programmiert wird, dass das Programm nicht abstürzt.   |
+| 5    |        Muss         |   Funktional   | Ich will, dass falsche Wörter in einem zusätzlichen Array gespeichert werden, dass man sie später nochmal lernen kann.   |
+| 6    |        Muss         |   Funktional   | Ich will, dass die Wörter in einer zufälligen Reihenfolge abgefragt werden, damit der Nutzer nicht nur die Reihenfolge der Wörter lernt.    |
+| 7    |        kann         |   Funktional   | Ich will, dass bei jeder korrekten Eingabe die Punktzahl um 1 erhöht wird.    |
 | 8    |        kann         |   Funktional   | Ich will, dass am Ende der Runde die Punktzahl ausgegeben wird, um zu wissen wie gut man war.   |
 
 
@@ -39,9 +39,9 @@ Wir entwickeln ein Vokabeltrainer welcher Vokabeln abfragen kann.
 | ---- | ------------ | ------- | ----------------- |
 | 1.2  |    Programm gestartet          |    Keine eingabe     |    Deutsch -> Englisch / Englisch -> Deutsch             |
 | 1.3  |    Programm gestartet          |    Deutsch -> Englisch     |   Es werden Deutsche wörter angezeigt. Bitte übersetzen Sie diese auf Englisch |
-| 1.4  |    Programm gestartet          |    faklsche SChreibweise   |        Eingabe ungültig, probiere nochmal         |
-| 1.5  |    Programm gestartet          |    falsches wort     |         bitte nochmal wiederholen          |
-| 1.6  |    Programm gestartet          |    letztes richtiges wort  |   Sie haben alle wörter richtig geschrieben.|
+| 1.4  |    Programm gestartet          |    Falsche Schreibweise   |    Eingabe ungültig, probiere nochmal.         |
+| 1.5  |    Programm gestartet          |    Falsches wort     |         bitte nochmal wiederholen.          |
+| 1.6  |    Programm gestartet          |    Letztes richtiges wort  |   Sie haben alle wörter richtig geschrieben.       |
 | 1.7  |    Programm gestartet          |    Nummer          |           Bitte geben keine Zahl sondern ein Wort ein.     |
 
 ### 1.4 Diagramme
