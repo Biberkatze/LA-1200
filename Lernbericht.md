@@ -33,6 +33,7 @@ In diesem Auschnitt unseres Codes werden die zwei Textfiles mit den englischen W
 
 
 
+
 Wir hatten Probleme mit dem Organisieren, weil mehrere Mitglieder technische Probleme mit den Audiogeräten hatten, zudem war unser Gruppenleiter an einem Tag krankheitsbedingt nicht anwesend.
 
 **VBV**: ✍️ Formulieren Sie davon ausgehend einen *handelbaren* Verbesserungsvorschlag.
