@@ -25,8 +25,12 @@ Wir haben gelernt wie man Texdateien in ein Programm einlesen und diese in eine 
 
 # Reflexion zum Arbeitsprozess
 
-👍 Überlegen Sie sich jeweils etwas, was gut an Ihrer Arbeit lief; 
+👍 Überlegen Sie sich jeweils etwas, was gut an Ihrer Arbeit lief;
 
 👎 und etwas, was nicht gut lief.
 
+Wir hatten Probleme mit dem Organisieren, weil mehrere Mitglieder technische Probleme mit den Audiogeräten hatten, zudem war unser Gruppenleiter an einem Tag krankheitsbedingt nicht anwesend.
+
 **VBV**: ✍️ Formulieren Sie davon ausgehend einen *handelbaren* Verbesserungsvorschlag.
+
+Wir hätten den Gruppenleiter fragen sollen, was zu tun ist und wie wir weiter vorgehen sollen.
